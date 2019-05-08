@@ -1,1 +1,1 @@
-Hello! It is main.js file.
+console.log('I am learning git commands')
